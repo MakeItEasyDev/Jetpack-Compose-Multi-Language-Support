@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Multi lingua</string>
+
+    <string name="versions">Versioni</string>
+    <string name="settings">Impostazioni</string>
+    <string name="logout">Disconnettersi</string>
+    <string name="content">Jetpack Compose è il moderno toolkit di Android per la creazione di un\'interfaccia utente nativa. Semplifica e accelera lo sviluppo dell\'interfaccia utente su Android. Dai vita rapidamente alla tua app con meno codice, strumenti potenti e API Kotlin intuitive.</string>
+</resources>
